@@ -41,6 +41,14 @@ Example:
 
 ![image](https://github.com/fayzirahmonrahmonov/Lecture4/assets/133873684/e92471f0-e9cb-4710-b698-a1739c92df89)
 
+# Destructuring 
+
+
+Example:
+
+![image](https://github.com/fayzirahmonrahmonov/Lecture4/assets/133873684/4489c55f-3276-427e-87bd-4fcb3d3e96dc)
+
+
 # Spread
 
 
