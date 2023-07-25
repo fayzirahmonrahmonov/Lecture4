@@ -1,3 +1,3 @@
 # Lecture 4
 # Object
- What is an object in JavaScript
+- What is an object in JavaScript
