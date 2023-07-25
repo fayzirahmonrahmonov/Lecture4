@@ -33,6 +33,16 @@ Example:
 
 ![image](https://github.com/fayzirahmonrahmonov/Lecture4/assets/133873684/275a2c72-fbfa-415f-b550-105bb944d9c2)
 
+- Object.values()
+
+  `Object.values ()` returns an array whose elements are values of enumerable string-keyed properties found directly upon object.
+
+  Example:
+
+![image](https://github.com/fayzirahmonrahmonov/Lecture4/assets/133873684/e92471f0-e9cb-4710-b698-a1739c92df89)
+
+
+
 
 
 
