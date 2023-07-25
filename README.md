@@ -78,6 +78,14 @@ Example:
 
   ![image](https://github.com/fayzirahmonrahmonov/Lecture4/assets/133873684/d25ed251-279d-4386-8eca-60e2862ac3e5)
 
+- new Date(date string)
+
+  ![image](https://github.com/fayzirahmonrahmonov/Lecture4/assets/133873684/4833597c-a366-49e0-9782-8ebe81c15ec6)
+
+- new Date( year, month, day, hours, minutes, seconds, milliseconds )
+
+  ![image](https://github.com/fayzirahmonrahmonov/Lecture4/assets/133873684/58facb43-7161-4a59-bd19-12837024faef)
+
 
 
 
