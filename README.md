@@ -64,6 +64,17 @@ Example:
 
 ![image](https://github.com/fayzirahmonrahmonov/Lecture4/assets/133873684/42a5fdc4-6f81-46bd-bff4-dfce37e40b72)
 
+Example:
+
+![image](https://github.com/fayzirahmonrahmonov/Lecture4/assets/133873684/47b5e16a-c53e-4628-aec0-06fd4f675949)
+
+# new Date()
+
+![image](https://github.com/fayzirahmonrahmonov/Lecture4/assets/133873684/d3b07b7e-9362-4f79-aa48-bee1e41835ac)
+
+
+
+
 
   
 
