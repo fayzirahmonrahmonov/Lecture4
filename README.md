@@ -41,6 +41,14 @@ Example:
 
 ![image](https://github.com/fayzirahmonrahmonov/Lecture4/assets/133873684/e92471f0-e9cb-4710-b698-a1739c92df89)
 
+# Spread
+
+
+Example:
+
+![image](https://github.com/fayzirahmonrahmonov/Lecture4/assets/133873684/4107df71-3b36-448b-a107-701dcdcd5f19)
+
+
 
 
 
