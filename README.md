@@ -56,6 +56,17 @@ Example:
 
 ![image](https://github.com/fayzirahmonrahmonov/Lecture4/assets/133873684/4107df71-3b36-448b-a107-701dcdcd5f19)
 
+# This 
+
+- What is keyword `this` in JavaScript ?
+
+  In JavaScript, the `this` keyword refers to an object. Which object depends on how `this` is being invoked (used or called). The thiskeyword     refers to different objects depending on how it is used:
+
+![image](https://github.com/fayzirahmonrahmonov/Lecture4/assets/133873684/42a5fdc4-6f81-46bd-bff4-dfce37e40b72)
+
+
+  
+
 
 
 
