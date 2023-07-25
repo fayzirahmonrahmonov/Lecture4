@@ -88,6 +88,10 @@ Example:
 
 
 
+# ![image](https://github.com/fayzirahmonrahmonov/Lecture4/assets/133873684/ea0f8ae6-aa9a-4f20-97a5-5ea9f4fa7e6b)
+
+
+
 
 
 
