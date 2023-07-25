@@ -70,7 +70,15 @@ Example:
 
 # new Date()
 
-![image](https://github.com/fayzirahmonrahmonov/Lecture4/assets/133873684/d3b07b7e-9362-4f79-aa48-bee1e41835ac)
+- new Date()
+
+  ![image](https://github.com/fayzirahmonrahmonov/Lecture4/assets/133873684/2296dff8-7564-4be7-afe0-91f3f5a800e3)
+
+- new Date(milliseconds)
+
+  ![image](https://github.com/fayzirahmonrahmonov/Lecture4/assets/133873684/d25ed251-279d-4386-8eca-60e2862ac3e5)
+
+
 
 
 
